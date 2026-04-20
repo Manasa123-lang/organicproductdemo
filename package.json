@@ -1,12 +1,9 @@
 {
-  "name": "organicproductdemo",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
+  "name": "organic-product-website",
+  "version": "1.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "lint": "eslint .",
     "preview": "vite preview"
   },
   "dependencies": {
