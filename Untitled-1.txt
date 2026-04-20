@@ -1,0 +1,7 @@
+Domain + Hosting + Http / https
+
+Plot.com amazon.com
+Normal web hosting (hostinger + Vercel (open source free project hosting))
+http means not highly secure
+https means highly secure     <--ssl certificates
+
