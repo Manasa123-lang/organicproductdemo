@@ -55,8 +55,9 @@ const IMG = {
   sustain2:      "https://images.unsplash.com/photo-1518531933037-91b2f5f229cc?w=700&q=80",
   sustain3:      "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=700&q=80",
   sustain4:      "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?w=700&q=80",
-  sustain5:      "https://images.unsplash.com/photo-1726457901195-f51a4eca05ec?q=80&w=870",     
-  sustain6:      "https://images.unsplash.com/photo-1707721690626-10e5f0366bcb?q=80&w=870",
+  sustain5:      "https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?w=700&q=80",
+  sustain6:      "https://images.unsplash.com/photo-1709207513826-10d0b0e289b4?q=80&w=870",
+
   /* ── Certifications ── */
   cert_usda:     "https://images.unsplash.com/photo-1530836369250-ef72a3f5cda8?w=600&q=80",
   cert_eco:      "https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=600&q=80",
@@ -82,7 +83,7 @@ const IMG = {
   /* ── Stores / Contact ── */
   store1:        "https://images.unsplash.com/photo-1519996529931-28324d5a630e?w=800&q=80",
   store2:        "https://plus.unsplash.com/premium_photo-1675798983878-604c09f6d154?q=80",
-  store3:        "https://images.unsplash.com/photo-1754634756920-a85bfea4cf5a?q=80&w=465",
+  store3:        "https://images.unsplash.com/photo-1582947696557-8fe84f7c9760?q=80&w=870",
   contactTeam:   "https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80",
   contactMap:    "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=900&q=80",
 
